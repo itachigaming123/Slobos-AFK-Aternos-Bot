@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Leisure_SMP.aternos.me:58023",
+    "ip": "Leisure_SMP.aternos.me",
     "port": 58023,
     "version": "",
     "try-creative": false
